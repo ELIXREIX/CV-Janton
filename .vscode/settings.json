@@ -1,3 +1,4 @@
 {
-    "CodeGPT.apiKey": "Github"
+    "CodeGPT.apiKey": "Github",
+    "terminal.integrated.gpuAcceleration": "on"
 }
